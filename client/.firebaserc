@@ -1,5 +1,6 @@
 {
   "projects": {
-    "dev": "kanban-realtime-vuefire"
+    "dev": "kanban-realtime-vuefire",
+    "default": "kanban-realtime-vuefire"
   }
 }
